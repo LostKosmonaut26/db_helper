@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="db_helper",  # Название вашего пакета
-    version="0.1.0",  # Версия пакета
+    name="db_helper",  
+    version="0.1.0",  
     description="Библиотека позволяет быстро выполнять запросы к БД, а также превращать данные в JSON",
-    long_description=open('README.md').read(),  # Длинное описание из README.md
-    long_description_content_type='text/markdown',  # Указание на формат README (Markdown)  
+    long_description=open('README.md').read(),  
+    long_description_content_type='text/markdown',  
     author="LostKosmonaut", 
     author_email="maxon1204@gmail.com",  
     url="https://github.com/LostKosmonaut26/db_helper",  
