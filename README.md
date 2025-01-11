@@ -13,4 +13,4 @@
 Чтобы установить `db_helper`, используйте pip:
 
 ```bash
-pip install db_helper
+pip install db-helper-lib
